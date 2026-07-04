@@ -7,7 +7,6 @@
 
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bai+Jamjuree&pause=1000&color=F76FBD&width=435&lines=Hello%2C+I'm+Justyna+Frontend+Dev)](https://git.io/typing-svg)
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bai+Jamjuree&pause=1000&color=F76FBD&width=435&lines=Hello%2C+I'm+Justyna+Frontend+Dev" alt="Typing SVG" /></a>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,bootstrap,css,cypress,express,figma,git,github,ai,js,nextjs,nodejs,npm,react,supabase,tailwind,ts,vercel,vscod,windows,)](https://skillicons.dev)
 
