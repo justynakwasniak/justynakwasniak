@@ -10,6 +10,7 @@ Passionate about building modern, responsive web applications with React and Typ
 - React
 - TypeScript
 - Next.js
+- Node.js/Express
 
 💻 Tech Stack
 
