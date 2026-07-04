@@ -28,12 +28,6 @@ Passionate about building modern, responsive web applications with React and Typ
 
 ---
 
-## 🏆 Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=justynakwasniak&theme=radical&no-frame=true&margin-w=15)
-
----
-
 ## 📫 Contact
 
 📧 **jkwasniak193@gmail.com**
@@ -41,5 +35,3 @@ Passionate about building modern, responsive web applications with React and Typ
 💼 Open to Frontend Developer opportunities.
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=justynakwasniak&theme=tokyo-night)
-
-![](https://komarev.com/ghpvc/?username=justynakwasniak&color=blueviolet&style=for-the-badge)
