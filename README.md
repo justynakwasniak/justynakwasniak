@@ -1,22 +1,38 @@
-- 👋 Hi, I’m @justynakwasniak
-- 👀 I’m interested in frontend development and UX/UI 
-- 🌱 I’m currently learning React, JS and TS.
-- 💞️ I’m looking to collaborate on - my role as a frontend dev.
-- 📫 How to reach me jkwasniak193@gmail.com
-- 😄 Pronouns: she/her
+# 👋 Hi, I'm Justyna
 
+### Frontend Developer
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bai+Jamjuree&pause=1000&color=F76FBD&width=435&lines=Hello%2C+I'm+Justyna+Frontend+Dev)](https://git.io/typing-svg)
+Passionate about building modern, responsive web applications with React and TypeScript.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,bootstrap,css,cypress,express,figma,git,github,ai,js,nextjs,nodejs,npm,react,supabase,tailwind,ts,vercel,vscod,windows,)](https://skillicons.dev)
+🌱 Currently learning
+- React
+- TypeScript
+- Next.js
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justynakwasniak&show_icons=true&theme=tokyonight)
+💻 Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justynakwasnia&layout=compact&theme=tokyonight)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap,supabase,git,github,npm,cypress,figma,vscode,vercel)](https://skillicons.dev)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=justynakwasniak&theme=tokyonight)
-![Trophy](https://github-profile-trophy.vercel.app/?username=justynakwasniak&theme=tokyonight)
-<!---
-justynakwasniak/justynakwasniak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=justynakwasniak&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=justynakwasniak&layout=compact&theme=tokyonight&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=justynakwasniak&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=justynakwasniak&theme=radical&no-frame=true&margin-w=15)
+
+---
+
+## 📫 Contact
+
+📧 **jkwasniak193@gmail.com**
+
+💼 Open to Frontend Developer opportunities.
