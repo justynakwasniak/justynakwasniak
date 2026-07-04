@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Justyna
+# 👋 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bai+Jamjuree&pause=1000&color=F76FBD&width=435&lines=Hello%2C+I'm+Justyna+Kwa%C5%9Bniak+)](https://git.io/typing-svg)
 
 ### Frontend Developer
 
