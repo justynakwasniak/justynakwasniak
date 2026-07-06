@@ -17,16 +17,6 @@ I'm passionate about building modern, responsive web applications with React and
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=justynakwasniak&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=justynakwasniak&layout=compact&theme=tokyonight&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=justynakwasniak&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Contact
 
 📧 **jkwasniak193@gmail.com**
