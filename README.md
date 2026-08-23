@@ -22,5 +22,3 @@ I'm passionate about building modern, responsive web applications with React and
 📧 **jkwasniak193@gmail.com**
 
 💼 Open to Frontend Developer opportunities.
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=justynakwasniak&theme=tokyo-night)
